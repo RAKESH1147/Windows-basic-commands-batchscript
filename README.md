@@ -107,6 +107,8 @@ __COMMAND AND OUTPUT__
 ## Compare the file hello.txt and rose.txt
 
  __COMMAND AND OUTPUT__
+
+ 
 <img width="562" height="153" alt="image" src="https://github.com/user-attachments/assets/046c5b3c-d03a-4e69-ab28-14840664082b" />
 
 
