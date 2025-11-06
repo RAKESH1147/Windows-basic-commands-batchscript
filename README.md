@@ -79,31 +79,37 @@ __COMMAND AND OUTPUT__
 
 __COMMAND AND OUTPUT__
 
-<img width="742" height="961" alt="image" src="https://github.com/user-attachments/assets/3d06f9ea-a2cf-4c84-b1b1-d0d6bc5a4b95" />
-
-<img width="663" height="962" alt="image" src="https://github.com/user-attachments/assets/83e8563b-10c4-43a1-aed7-d4113b06f9dc" />
-
-<img width="418" height="983" alt="image" src="https://github.com/user-attachments/assets/4893deeb-7896-4caa-b5d9-10f116ddce15" />
-
-<img width="435" height="986" alt="image" src="https://github.com/user-attachments/assets/d943bcf6-9ba6-4da5-997c-ff4092c64011" />
-
-<img width="601" height="988" alt="image" src="https://github.com/user-attachments/assets/2b905870-ff78-41ab-97f7-933e3681e83d" />
-
-<img width="672" height="981" alt="image" src="https://github.com/user-attachments/assets/e3d3d815-ed01-4bad-aa49-94b195a0cdce" />
-
-<img width="542" height="988" alt="image" src="https://github.com/user-attachments/assets/6a600c7b-c298-4c2d-a2fc-42f298fed47f" />
-
-<img width="491" height="983" alt="image" src="https://github.com/user-attachments/assets/f5d4685f-43a0-48f6-9242-d25d37c7d77c" />
-
-<img width="634" height="986" alt="image" src="https://github.com/user-attachments/assets/be0f3bd2-6ded-4a10-b518-d7dffe60823f" />
-
-<img width="591" height="986" alt="image" src="https://github.com/user-attachments/assets/2ed0728f-ee1e-499f-bdb0-3a23d95b38f8" />
+<img width="717" height="906" alt="image" src="https://github.com/user-attachments/assets/8e296f29-49fd-4a91-ad4a-2ec30998e9cb" />
 
 ## Compare the file hello.txt and rose.txt
 
  __COMMAND AND OUTPUT__
 
 <img width="886" height="137" alt="image" src="https://github.com/user-attachments/assets/e96d73b9-1f74-4406-b69e-1615ce35b98a" />
+
+<img width="861" height="1087" alt="image" src="https://github.com/user-attachments/assets/89456613-26bf-4736-afab-515f89a6b2b1" />
+
+<img width="912" height="1086" alt="image" src="https://github.com/user-attachments/assets/c4622971-aac8-49dc-b4d2-8b270aae75a3" />
+
+<img width="777" height="1088" alt="image" src="https://github.com/user-attachments/assets/192b4102-8819-44c1-a9aa-e47eacb6f14b" />
+
+<img width="743" height="1089" alt="image" src="https://github.com/user-attachments/assets/9ce22a06-2a9b-404e-99c8-1c5f1fe76278" />
+
+<img width="962" height="1084" alt="image" src="https://github.com/user-attachments/assets/2e581186-79d6-4176-b58d-5857a8a400b6" />
+
+<img width="1028" height="1098" alt="image" src="https://github.com/user-attachments/assets/29e0ca07-4239-412e-8c56-192bfdcfd859" />
+
+<img width="758" height="1087" alt="image" src="https://github.com/user-attachments/assets/21a74474-c217-4a7e-b938-195564104189" />
+
+<img width="790" height="1086" alt="image" src="https://github.com/user-attachments/assets/8e7dcbd7-469a-43b6-b7a4-f8ef48423cad" />
+
+<img width="864" height="1092" alt="image" src="https://github.com/user-attachments/assets/804e8990-9309-4b4d-8ea3-c5a33f4dc89b" />
+
+
+
+
+
+
 
 
 
