@@ -81,10 +81,6 @@ __COMMAND AND OUTPUT__
 
 <img width="717" height="906" alt="image" src="https://github.com/user-attachments/assets/8e296f29-49fd-4a91-ad4a-2ec30998e9cb" />
 
-## Compare the file hello.txt and rose.txt
-
- __COMMAND AND OUTPUT__
-
 <img width="886" height="137" alt="image" src="https://github.com/user-attachments/assets/e96d73b9-1f74-4406-b69e-1615ce35b98a" />
 
 <img width="861" height="1087" alt="image" src="https://github.com/user-attachments/assets/89456613-26bf-4736-afab-515f89a6b2b1" />
@@ -107,6 +103,12 @@ __COMMAND AND OUTPUT__
 
 
 <img width="1005" height="298" alt="image" src="https://github.com/user-attachments/assets/4a9b6877-054b-4b3a-8d07-7a94ad66e555" />
+
+## Compare the file hello.txt and rose.txt
+
+ __COMMAND AND OUTPUT__
+<img width="562" height="153" alt="image" src="https://github.com/user-attachments/assets/046c5b3c-d03a-4e69-ab28-14840664082b" />
+
 
 ## Exercise 2: Advanced Batch Scripting
 __1__.Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
