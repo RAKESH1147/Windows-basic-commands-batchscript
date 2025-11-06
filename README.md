@@ -128,7 +128,8 @@ pause
 
 ### OUTPUT
 
-<img width="825" height="75" alt="image" src="https://github.com/user-attachments/assets/246a5819-7d58-4422-825d-50d4f3491cc3" />
+<img width="471" height="131" alt="image" src="https://github.com/user-attachments/assets/ff2559b7-9da7-4874-b86b-39c9a1e6b158" />
+
 
 
 
