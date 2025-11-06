@@ -106,13 +106,7 @@ __COMMAND AND OUTPUT__
 <img width="864" height="1092" alt="image" src="https://github.com/user-attachments/assets/804e8990-9309-4b4d-8ea3-c5a33f4dc89b" />
 
 
-
-
-
-
-
-
-
+<img width="1005" height="298" alt="image" src="https://github.com/user-attachments/assets/4a9b6877-054b-4b3a-8d07-7a94ad66e555" />
 
 ## Exercise 2: Advanced Batch Scripting
 __1__.Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
