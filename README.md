@@ -260,15 +260,18 @@ exit
 
 ### OUTPUT
 
-<img width="332" height="126" alt="image" src="https://github.com/user-attachments/assets/349c8a59-0694-4531-9901-98e2f1590f59" />
+<img width="411" height="147" alt="image" src="https://github.com/user-attachments/assets/c5a4d09d-c249-47f0-abdc-8a1c6a4ec829" />
 
 
 
-<img width="304" height="131" alt="image" src="https://github.com/user-attachments/assets/a6f8393b-2c6c-4928-832e-bcb1b0dafe77" />
+
+<img width="742" height="242" alt="image" src="https://github.com/user-attachments/assets/11578354-4c3a-43cf-a1dd-486f2dc88c87" />
 
 
 
-<img width="307" height="132" alt="image" src="https://github.com/user-attachments/assets/dd439c31-1b0f-47a5-943f-7bc769e8456e" />
+
+<img width="643" height="171" alt="image" src="https://github.com/user-attachments/assets/c8a99d95-f35a-4863-b172-443cd5bbf9a4" />
+
 
 # RESULT:
 The commands/batch files are executed successfully.
