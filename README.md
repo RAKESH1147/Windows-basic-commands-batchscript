@@ -28,48 +28,51 @@ Execute the necessary commands/batch file for the desired output.
 
  __COMMAND AND OUTPUT__
 
-<img width="806" height="79" alt="image" src="https://github.com/user-attachments/assets/a494cf64-7457-44d6-a737-78ee246bf414" />
+<img width="677" height="87" alt="image" src="https://github.com/user-attachments/assets/a7792f2b-e1b4-4d55-97fc-e5422b5b1a88" />
+
 
 
 ## Remove the directory "my-folder"
 
 **COMMAND AND OUTPUT**
 
-<img width="866" height="75" alt="image" src="https://github.com/user-attachments/assets/0e84e947-021c-4728-a482-0bd95cf4c5b1" />
+<img width="717" height="75" alt="image" src="https://github.com/user-attachments/assets/268a39ab-341c-43bf-b9f7-ed6cff8a6ae5" />
+
 
 
 ## Create the file Rose.txt
 
 **COMMAND AND OUTPUT**
 
-<img width="859" height="73" alt="image" src="https://github.com/user-attachments/assets/5db47aaf-9500-4a86-9aa8-08ff7e7382b9" />
+<img width="766" height="67" alt="image" src="https://github.com/user-attachments/assets/5bc8200e-6269-4d8a-8cf5-07d72614d9ac" />
+
 
 
 ## Create the file hello.txt using echo and redirection
 
  __COMMAND AND OUTPUT__
 
-<img width="910" height="76" alt="image" src="https://github.com/user-attachments/assets/85f23f43-2e37-4e92-8ce9-46aaf4dc27a2" />
+<img width="638" height="77" alt="image" src="https://github.com/user-attachments/assets/cd7fe78a-9d1d-45ca-a7a5-a42391d813e0" />
 
 
 ## Copy the file hello.txt into the file hello1.txt
 
 __COMMAND AND OUTPUT__
 
-<img width="933" height="102" alt="image" src="https://github.com/user-attachments/assets/cd2cbfef-b2f0-49aa-8009-065f43232536" />
+<img width="622" height="95" alt="image" src="https://github.com/user-attachments/assets/224582ab-bd1b-4268-bc3d-74d8209198ef" />
 
 ## Remove the file hello1.txt
 
  __COMMAND AND OUTPUT__
 
-<img width="802" height="85" alt="image" src="https://github.com/user-attachments/assets/014ce23a-6aa3-4304-9f55-f89238f56017" />
+<img width="418" height="67" alt="image" src="https://github.com/user-attachments/assets/347e38da-6c2b-497a-938b-a34a18c50862" />
 
 
 ## List out the file hello1.txt in the current directory
 
  __COMMAND AND OUTPUT__
 
-<img width="832" height="155" alt="image" src="https://github.com/user-attachments/assets/8e5026be-8555-4e12-b1ef-ed039897d9ff" />
+<img width="606" height="172" alt="image" src="https://github.com/user-attachments/assets/136c0c50-ab04-4d9a-8d21-a808e7d3b232" />
 
 
 ## List out all the associated file extensions 
