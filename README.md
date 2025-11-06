@@ -213,7 +213,8 @@ pause
 
 ### OUTPUT
 
-<img width="795" height="75" alt="image" src="https://github.com/user-attachments/assets/f5ebfae9-0b2d-439b-ae29-6cef4ee9c9a2" />
+<img width="599" height="93" alt="image" src="https://github.com/user-attachments/assets/187c2444-092e-4d7a-b4af-98f3c5b4e597" />
+
 
 
 __5__.Write a batch script that displays a simple menu with three options:
